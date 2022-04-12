@@ -1,0 +1,9 @@
+Version 1.0 - 4/10/2022
+Version 1.1 - 4/11/2022
+    -Fixed bug causing Hermes notification to display after each command after giving him dog treats
+    -Fixed bug allowing players to enter the attic with matchbook only
+    -Fixed bug causing the game to end immediately after obtaining art supplies
+    -Removed Combat mechanics
+    -Fixed bug causing matchbook to remain in room after adding it to backpack
+    -Updated the description of Attic to change "candle" to "lantern"
+    -Added additional pauses to the end scene
